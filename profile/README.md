@@ -2,6 +2,17 @@
 
 Völva source code is available under the organisation (https://github.com/volvan), and allows other researchers to replicate, contribute or adapt the scanner for different contexts, including education, monitoring, and digital risk awareness.
 
+## Quick links
+
+- **[Website](https://volva.frostbyte.is)**
+
+- **[GitLab Mirror](https://gitlab.frostbyte.is/academic-projects/scan_ice)**
+
+- **[Original Repository](https://github.com/marteinnlundi/ScanICE)**
+
+- **[Presentation Slides for Völva](https://blank.page/)**
+
+
 ## Hierarcy 
 
 In this organisation, there are a few repositories, such as: 
